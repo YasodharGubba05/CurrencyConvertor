@@ -15,3 +15,10 @@ html{
 .amount{
     margin-left: 10px;
 }
+.input{
+    margin-left: 10px;
+    padding: 10px;
+}
+.label{
+    padding: 10px;
+}
