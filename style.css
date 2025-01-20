@@ -1,3 +1,14 @@
 html{
     margin: 0;
 }
+.area{
+    height: 300px;
+    width: 300px;
+    background-color: lightblue;
+    border-radius: 6px;
+    display: flex;
+    
+}
+.heading{
+    margin-left: 10px;
+}
