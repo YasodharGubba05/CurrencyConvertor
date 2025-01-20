@@ -6,9 +6,12 @@ html{
     width: 300px;
     background-color: lightblue;
     border-radius: 6px;
-    display: flex;
-    
+    display: block;  
 }
 .heading{
+    margin-left: 10px;
+    display: block;
+}
+.amount{
     margin-left: 10px;
 }
